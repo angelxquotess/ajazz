@@ -1,0 +1,50 @@
+--- /home/claude/out/main.py.orig	2026-09-07 21:01:48.434128638 +0000
++++ /home/claude/jarvis_inspect/JARVIS/main.py	2026-09-07 21:02:01.692727775 +0000
+@@ -74,6 +74,7 @@
+ from actions.open_app          import open_app
+ from actions.weather_report    import weather_action
+ from actions.send_message      import send_message
++from actions.calls             import start_call
+ from actions.reminder          import reminder
+ from actions.computer_settings import computer_settings
+ from actions.screen_processor  import _capture_camera, _capture_screen
+@@ -222,6 +223,24 @@
+         }
+     },
+     {
++        "name": "start_call",
++        "description": (
++            "Avvia una chiamata vocale su WhatsApp, Telegram o Discord. "
++            "Usare quando l'utente chiede esplicitamente di chiamare qualcuno "
++            "(es. 'chiama Noemy', 'chiamami Mario su WhatsApp', 'avvia una "
++            "videochiamata con...'). Non usare per inviare messaggi: per "
++            "quello c'e' send_message."
++        ),
++        "parameters": {
++            "type": "OBJECT",
++            "properties": {
++                "receiver": {"type": "STRING", "description": "Nome contatto, @username o numero di telefono (+39...)"},
++                "platform": {"type": "STRING", "description": "whatsapp | telegram | discord. Se omesso, default whatsapp."}
++            },
++            "required": ["receiver"]
++        }
++    },
++    {
+         "name": "check_messages",
+         "description": (
+             "Riepilogo dei messaggi non letti su WhatsApp / Telegram / "
+@@ -1115,6 +1134,14 @@
+                 )
+                 result = r or f"Messaggio inviato a {_receiver}."
+ 
++            elif name == "start_call":
++                _receiver = str(args.get("receiver", "")).strip()
++                r = await loop.run_in_executor(
++                    None,
++                    lambda: start_call(parameters=args, response=self, player=self.ui, session_memory=None),
++                )
++                result = r or f"Chiamata avviata verso {_receiver}."
++
+             elif name == "check_messages":
+                 r = await loop.run_in_executor(None, lambda: check_messages(parameters=args, response=None, player=self.ui, session_memory=None))
+                 result = r or "Nessun messaggio non letto."

@@ -1,0 +1,53 @@
+{
+  "identity": {
+    "language": {
+      "value": "Italian",
+      "updated": "2026-09-09"
+    }
+  },
+  "preferences": {
+    "favorite_food": {
+      "value": "pizza",
+      "updated": "2026-07-02"
+    },
+    "read_archived_chats": {
+      "value": "false",
+      "updated": "2026-09-04"
+    }
+  },
+  "projects": {},
+  "relationships": {
+    "sister_name": {
+      "value": "Simona",
+      "updated": "2026-09-08"
+    },
+    "simona_age": {
+      "value": "9",
+      "updated": "2026-09-10"
+    }
+  },
+  "wishes": {},
+  "notes": {
+    "communication_backup": {
+      "value": "If no response, check Instagram (potential WhatsApp ban)",
+      "updated": "2026-09-07"
+    }
+  },
+  "sessions": [
+    {
+      "date": "2026-09-05",
+      "summary": "L'utente ha interagito con JARVIS, venendo sollecitato a fare una pausa e a considerare i piani per la cena, con una menzione della sua preferenza per la pizza.",
+      "language": "Italian"
+    },
+    {
+      "date": "2026-09-07",
+      "summary": "L'utente ha interagito con Jarvis per ottenere la definizione di \"cipresso\", chiudere un'attività e riprendere la riproduzione audio.",
+      "language": "Italian"
+    },
+    {
+      "date": "2026-09-10",
+      "summary": "L'utente ha guidato Jarvis nell'identificazione di un telefono tramite la webcam, correggendo le iniziali misidentificazioni e migliorando l'illuminazione per ottenere una risposta accurata.",
+      "language": "Italian"
+    }
+  ]
+}

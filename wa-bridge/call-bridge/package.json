@@ -1,0 +1,13 @@
+{
+  "name": "jarvis-call-bridge",
+  "version": "0.1.0",
+  "description": "Sessione WPPConnect dedicata: accept/reject/hangup su chiamate WhatsApp Web native, esposta via HTTP a JARVIS.",
+  "main": "call_bridge.js",
+  "scripts": {
+    "start": "node call_bridge.js"
+  },
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^2.3.3",
+    "express": "^4.19.2"
+  }
+}

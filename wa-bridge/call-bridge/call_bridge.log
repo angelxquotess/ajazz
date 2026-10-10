@@ -1,0 +1,1240 @@
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+[call-bridge] HTTP API su http://127.0.0.1:8767
+[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047020237
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[call-bridge] Hook su WPP.call installato (enableCallInterface + hook microfono attivi).
+[36mverbose[39m:  [jarvis-calls:page] Page Closed
+[call-bridge] status: browserClose
+ERRORE: il processo con PID 3672 (processo figlio di PID 13664) non �
+stato terminato.
+Motivo: Nessuna istanza di esecuzione dell'attivit�.
+ERRORE: il processo con PID 8380 (processo figlio di PID 13664) non �
+stato terminato.
+Motivo: Nessuna istanza di esecuzione dell'attivit�.
+ERRORE: il processo con PID 5740 (processo figlio di PID 13664) non �
+stato terminato.
+Motivo: Nessuna istanza di esecuzione dell'attivit�.
+ERRORE: il processo con PID 3676 (processo figlio di PID 13664) non �
+stato terminato.
+Motivo: Nessuna istanza di esecuzione dell'attivit�.
+ERRORE: il processo con PID 612 (processo figlio di PID 13664) non �
+stato terminato.
+Motivo: L'operazione richiesta non � supportata.
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+[call-bridge] HTTP API su http://127.0.0.1:8767
+[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047020237
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[call-bridge] Errore avvio: Error: Execution context was destroyed, most likely because of a navigation.
+    at rewriteError (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:458:15)
+    at async #evaluate (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:389:60)
+    at async ExecutionContext.evaluate (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:277:16)
+    at async IsolatedWorld.evaluate (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:105:16)
+    at async CdpFrame.evaluate (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:362:20)
+    at async CdpPage.evaluate (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:830:20)
+    at async hookNativeCallStack (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\call_bridge.js:198:3)
+    at async start (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\call_bridge.js:181:3)
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047020237
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[36mverbose[39m:  [jarvis-calls:page] Page Closed
+[call-bridge] status: browserClose
+ERRORE: il processo con PID 10476 (processo figlio di PID 12012) non �
+stato terminato.
+Motivo: Nessuna istanza di esecuzione dell'attivit�.
+ERRORE: il processo con PID 12024 (processo figlio di PID 12012) non �
+stato terminato.
+Motivo: Nessuna istanza di esecuzione dell'attivit�.
+ERRORE: il processo con PID 14644 (processo figlio di PID 12012) non �
+stato terminato.
+Motivo: Nessuna istanza di esecuzione dell'attivit�.
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+[call-bridge] HTTP API su http://127.0.0.1:8767
+[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047020237
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[call-bridge] Hook su WPP.call installato (enableCallInterface + hook microfono attivi).
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] resolveTarget("Simona") -> {"exact":"276888488546325@lid","candidates":[{"id":"276888488546325@lid","name":"Simona sorella❤️"}],"name":"Simona sorella❤️"}
+[call-bridge] _tryOfferCall("276888488546325@lid") -> {"ok":true}
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] resolveTarget("Simona") -> {"exact":"276888488546325@lid","candidates":[{"id":"276888488546325@lid","name":"Simona sorella❤️"}],"name":"Simona sorella❤️"}
+[call-bridge] _tryOfferCall("276888488546325@lid") -> {"ok":true}
+[36mverbose[39m:  [jarvis-calls:page] Page Closed
+[call-bridge] status: browserClose
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+[call-bridge] HTTP API su http://127.0.0.1:8767
+[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047020237
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[call-bridge] Hook su WPP.call installato (enableCallInterface + hook microfono attivi).
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] resolveTarget("Simona") -> {"exact":"276888488546325@lid","candidates":[{"id":"276888488546325@lid","name":"Simona sorella❤️"}],"name":"Simona sorella❤️"}
+[call-bridge] _tryOfferCall("276888488546325@lid") -> {"ok":true}
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] resolveTarget("Simona") -> {"exact":"276888488546325@lid","candidates":[{"id":"276888488546325@lid","name":"Simona sorella❤️"}],"name":"Simona sorella❤️"}
+[call-bridge] _tryOfferCall("276888488546325@lid") -> {"ok":true}
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] resolveTarget("Simona") -> {"exact":"276888488546325@lid","candidates":[{"id":"276888488546325@lid","name":"Simona sorella❤️"}],"name":"Simona sorella❤️"}
+[call-bridge] _tryOfferCall("276888488546325@lid") -> {"ok":true}
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] resolveTarget("Simona") -> {"exact":"276888488546325@lid","candidates":[{"id":"276888488546325@lid","name":"Simona sorella❤️"}],"name":"Simona sorella❤️"}
+[call-bridge] _tryOfferCall("276888488546325@lid") -> {"ok":true}
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+[call-bridge] HTTP API su http://127.0.0.1:8767
+[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047020237
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[call-bridge] Hook su WPP.call installato (enableCallInterface + hook microfono attivi).
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] resolveTarget("Simona") -> {"exact":"276888488546325@lid","candidates":[{"id":"276888488546325@lid","name":"Simona sorella❤️"}],"name":"Simona sorella❤️"}
+[call-bridge] _tryOfferCall("276888488546325@lid") -> {"ok":true}
+[call-bridge] Chiamata terminata.
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+node:events:496
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8767
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndReject[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047036440
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: SYNCING (undefined)
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 170s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 160s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 150s
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: SYNCING (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: SYNCING (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] resolveTarget("Simona") -> {"exact":"276888488546325@lid","candidates":[{"id":"276888488546325@lid","name":"Simona sorella❤️"}],"name":"Simona sorella❤️"}
+[call-bridge] /call/start richiesto: to="Simona" isVideo=false
+[call-bridge] resolveTarget("Simona") -> {"exact":"276888488546325@lid","candidates":[{"id":"276888488546325@lid","name":"Simona sorella❤️"}],"name":"Simona sorella❤️"}
+[call-bridge] Errore avvio: TargetCloseError: Protocol error (Runtime.callFunctionOn): Target closed
+    at CallbackRegistry.clear (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:82:36)
+    at CdpCDPSession.onClosed (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\CdpSession.js:115:25)
+    at Connection.onMessage (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:149:25)
+    at WebSocket.<anonymous> (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\node\NodeWebSocketTransport.js:43:32)
+    at callListener (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\ws\lib\event-target.js:209:9)
+    at WebSocket.emit (node:events:518:28)
+    at Receiver.receiverOnMessage (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\ws\lib\websocket.js:1239:20)
+    at Receiver.emit (node:events:518:28)
+    at Immediate.<anonymous> (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\ws\lib\receiver.js:638:16) {
+  cause: ProtocolError
+      at <instance_members_initializer> (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:103:14)
+      at new Callback (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:107:16)
+      at CallbackRegistry.create (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:25:26)
+      at Connection._rawSend (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:108:26)
+      at CdpCDPSession.send (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\CdpSession.js:74:33)
+      at #evaluate (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:363:50)
+      at ExecutionContext.evaluate (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:277:36)
+      at IsolatedWorld.evaluate (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:105:30)
+      at CdpFrame.evaluate (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:362:43)
+      at CdpFrame.<anonymous> (C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:109:27)
+}
+[36mverbose[39m:  [jarvis-calls:page] Page Closed
+[call-bridge] status: browserClose
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+node:events:496
+      throw er; // Unhandled 'e[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047113681
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: SYNCING (undefined)
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 170s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 160s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 150s
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[call-bridge] Hook su WPP.call installato (enableCallInterface + hook microfono attivi).
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[call-bridge] Chiamata in arrivo: {
+  id: '00AE1949A68BDF4836EBD7AF1AD58054',
+  from: '232267637092373@lid',
+  callerName: 'Stefano aids',
+  isGroup: false,
+  isVideo: false,
+  startedAt: 1788989812082,
+  status: 'ringing'
+}
+[call-bridge] Chiamata terminata.
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[call-bridge] Chiamata in arrivo: {
+  id: '0083F448AF88112721BC0ADF8E12CBC4',
+  from: '48631998591109@lid',
+  callerName: 'lil nigga',
+  isGroup: false,
+  isVideo: false,
+  startedAt: 1788993700002,
+  status: 'ringing'
+}
+[call-bridge] Chiamata terminata.
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+node:events:496
+      throw er; // Unhandled 'e[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\JARVIS\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047198186
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: SYNCING (undefined)
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 170s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 160s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 150s
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[call-bridge] Hook su WPP.call installato (enableCallInterface + hook microfono attivi).
+[call-bridge] Chiamata in arrivo: {
+  id: '0041D326E46E45C2440B938E55FC35D0',
+  from: '48631998591109@lid',
+  callerName: 'lil nigga',
+  isGroup: false,
+  isVideo: false,
+  startedAt: 1789041759417,
+  status: 'ringing'
+}
+[call-bridge] Chiamata terminata.
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+node:events:496
+      throw er; // Unhandled 'e[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\TEEEST\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047198186
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: SYNCING (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[call-bridge] Hook su WPP.call installato (enableCallInterface + hook microfono attivi).
+[call-bridge] Chiamata in arrivo: {
+  id: '00B5932156525F50102DCE0AC2397022',
+  from: '276888488546325@lid',
+  callerName: 'Simona sorella❤️',
+  isGroup: false,
+  isVideo: true,
+  startedAt: 1789047003410,
+  status: 'ringing'
+}
+[call-bridge] Chiamata terminata.
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+node:events:496
+      throw er; // Unhandled 'e[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\TEEEST\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047203841
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[call-bridge] Hook su WPP.call installato (enableCallInterface + hook microfono attivi).
+[call-bridge] Chiamata in arrivo: {
+  id: '0027B729F669AD0515FE53F4679132A2',
+  from: '276888488546325@lid',
+  callerName: 'Simona sorella❤️',
+  isGroup: false,
+  isVideo: true,
+  startedAt: 1789050126732,
+  status: 'ringing'
+}
+[call-bridge] Chiamata terminata.
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+[call-bridge] HTTP API su http://127.0.0.1:8767
+[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\TEEEST\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047203841
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Authenticated
+[call-bridge] status: isLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 180s
+[32mhttp[39m:     [jarvis-calls:client] Checking phone is connected...
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[34mdebug[39m:    [jarvis-calls:client] Registering onStateChange event
+[call-bridge] Sessione pronta (mic virtuale atteso: "jarvis_call_mic", speaker: "jarvis_call_speaker")
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: MAIN (undefined)
+[call-bridge] Hook su WPP.call installato (enableCallInterface + hook microfono attivi).
+[call-bridge] Chiamata in arrivo: {
+  id: '00915B2FF23E0C8A5603178688BA534C',
+  from: '276888488546325@lid',
+  callerName: 'Simona sorella❤️',
+  isGroup: false,
+  isVideo: true,
+  startedAt: 1789050937965,
+  status: 'ringing'
+}
+[call-bridge] Chiamata terminata.
+[call-bridge] Chiamata in arrivo: {
+  id: '00EBCC5586DD874CD6D621583CD16453',
+  from: '276888488546325@lid',
+  callerName: 'Simona sorella❤️',
+  isGroup: false,
+  isVideo: true,
+  startedAt: 1789051744942,
+  status: 'ringing'
+}
+[call-bridge] Chiamata terminata.
+[call-bridge] Chiamata in arrivo: {
+  id: '00EBE9C694BB59F2D9E767A9C2EC71EE',
+  from: '276888488546325@lid',
+  callerName: 'Simona sorella❤️',
+  isGroup: false,
+  isVideo: true,
+  startedAt: 1789053360467,
+  status: 'ringing'
+}
+[call-bridge] Chiamata terminata.
+[call-bridge] /call/start richiesto: to="Simona" isVideo=true
+[call-bridge] resolveTarget("Simona") -> {"exact":"276888488546325@lid","candidates":[{"id":"276888488546325@lid","name":"Simona sorella❤️"}],"name":"Simona sorella❤️"}
+[call-bridge] _tryOfferCall("276888488546325@lid") -> {"ok":true}
+[call-bridge] Chiamata terminata.
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: SYNCING (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: SYNCING (undefined)
+[32minfo[39m:     [jarvis-calls:session] Session Unpaired
+[call-bridge] status: disconnectedMobile
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047203841
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: QR (undefined)
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Waiting for QRCode Scan...
+[call-bridge] status: notLogged
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: QR (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: QR (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: QR (undefined)
+[34mdebug[39m:    [jarvis-calls:client] Emitting onStateChange event (1 registered)
+[32minfo[39m:     [jarvis-calls:client] Waiting for QRCode Scan (Attempt 1)...:
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄██▄▄▀██ █▀▄▀▀▀█▄▀ █▀ █▀▀▀█ █▄██▄▄▄▄██▀█▀▄█  █ ▄▄▄▄▄ █
+█ █   █ █ ▀ ██ █ █  ████▀█▀▄ ▄ ▀▄▀█▄▀▀█▀▀▄▀▀ ▄█▀▀ ▄ ▄ █ █   █ █
+█ █▄▄▄█ █▄▄▄█▄▀▄▄█▄█▄ ▄▄▀█▄▀▄ ▄▄▄ ▀▀█ █ ▄▀▀█  ▄▀ ▄  ▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀ █▄▀▄█▄▀ ▀▄█▄█▄▀ █▄█ ▀▄█ █ █▄█▄█▄█▄█ ▀ ▀ █▄▄▄▄▄▄▄█
+█ ▄  ▀█▄▀ █▄▄▄▀███▀▀ ▀▄▄▀▀█▄█ ▄  ▄▄▄▀█▀▄ ▄ ▀▀▀▀▄ ▀████▄▀▀ ▄▄▀▄█
+█▄▄█▄▀▀▄ █▄▄▀▀  █  ▀█▀█▄███▄▄▀▀██▄▄██▄█▀▄█ ▄██▄▄█ ▀▀▀█ ▄▄▀ ▀███
+█▀█▀ ▀█▄▄▄ ▄ ▄▄▀ █ ▄▀▀▀▀██▄████▀██ ▄ ▀▀▄▀███ █▀▄▀ ▀▀ ███ █▄▄███
+█▀ █▄██▄▀ █▀▀▄ █▄ ▀▀ ▀ ▀█ █ ▄█▀▄▀▀██▄  █  ▄▀▄██▄█▄█ ▀  ▀▀███ ██
+█ █▀ ▄ ▄  ▀▀███▄▄▀▀███▄  ▀     █ ▄ ▀▀▀▄▄ ▀▀█    ▀█▄▄▀ ▀█  █▀▄▄█
+█ █▀▄█ ▄▄ █▀ █▀███▀ ▀ ███▀ █▀▄▄█ ▀▀  ▀▄▄   ████ ▀█▀█▀▀▄▄▄  ▄▄ █
+███▄█ █▄▄█▀  ▀ ▀██▄██▄█ ▀▀██ ▄█▀█ █▀█▀▀█▀▄█ ██▄█ ▀▀▄█▄▀▀█▀███▄█
+█▄██▀█▀▄▀   █▄█ ▀▀█ ▀▄█▀▀ █▄▀▀ ▄▄ ███▀▄█  ▀▄▀▀▄▀█▀▄ ▄▀ ▀▀▀▀▀▀▀█
+██▀█▀▀█▄▀   ▄ █▀▀▄ █▄▀█▀ █▀▀▀██ █ ▀█  ▀▀█▀█▄▄█▀▄▄    ▄▄███▀   █
+█  ██▄▀▄ ▄▀█▄▀███▄ ▀██ ▄ ▀ ██  ▀█    ▀▄█ ▄ ▀▀ ▄ ███▄ █▄   █▄ ▀█
+█▀▄▄  ▄▄▄ ▄▀▀▄▄█▀▀▀█▀█▄██▄█ ▀ ▄▄▄    █ ▄ ▀ ▄▄▄  ▀▀█▄▀ ▄▄▄ ███▀█
+█ ▄██ █▄█ ▀▀▀█▄█▀█▄  █ █ ▄ █▀ █▄█ ▀▄▀▄▄▀▄▀▄█▀▄▄▄▀ █▄█ █▄█ ▄█ ▄█
+█▄▀█▀ ▄▄  ▄▄▀▄▄ █  █▀▄█▄▄▀▀▀  ▄   ██▄██▄    ▀█ █▄▀ ██    ▄▄▀█▄█
+███▄█▄ ▄▀ █▀▀▄ █▀▄▀▄▀██ ██▀ ▀▄ █▄██  ▄▀█▄█▀██▀▀ ▀▀ █ ██▀█▄ ▀▀▀█
+█ █▀▄▀▀▄  █▄▀▄ █ █ ▄ ▀▀█▀█ ▀▀▀█▄▄▄██ ▄▀  █ ▄ █▀█▀▄   ▀█▄▀  ▄▄ █
+█ █▄██ ▄▄█▀█▄▄█▄▀█▀▀▄█ █▀▄█ █▄   █ ▄▀  ▄▄▀ ▄▄▀ █▄██▄ ▀ █ ▀█▄█▀█
+█▄▄ ▀▀ ▄ ▄█ ▀█ ▀   ██ ▄▀█▄ █ ▄█▀ ▄█ ███▄██▀▄▄▄▄▀██▄█▀█▀▀▄█  ▀▄█
+█▄█▄ ▄▀▄▀ ▄█▀▀█ ▀ ▀▄▀▄▀ █  ▀  ▄▄▀▀█▄▀▄▀█▀█▀██ ▀ █ █▄▀▄▄▄▀▄▀██▄█
+█ █▄ █ ▄▄█▀▀▄███▄▄ ██▄ ▄▀  ▀ █▀██▀█▄▄▄    ▄ █▀███▀ ██  ██▄▀██▀█
+█▄█▄  ▀▄▄▄▀██▄ ▀█  █ ▄▄▄▀▀█ █  █ ▄▀ █▄▀▄▀█▄▄ ▀ ▄▀▀▀████▀ █▀▀█▀█
+█ █▄ █▀▄█ ▄ ▀█ ▄██  ▀ █▄█ ▀█▄▀█ ▄▀ ▄  ▄ ▀███▄▀▀▄ ▄▀ ▄▄▄▀▄ ▄██ █
+█▀▀ ▄ ▄▄▄▀██  █  ▄▄█▀▄▀ ▀▄▄▀██▄▄ ▄█▀▀█▀ ▄ █ ▀ ██▄██▄█▄▀█▀███▀▀█
+█▄▄▄▄██▄▄  ▀▄███▀▀▄▀ █▀█ █▄ █ ▄▄▄ ▀▄██▀██▀███▄▄▀▀█▀▄▀ ▄▄▄ ▄▀███
+█ ▄▄▄▄▄ █████████  ▀▄█▄   ▀▀  █▄█ ▄▀▀▄ ▄▄█▄█▄█▀ ▄   ▄ █▄█  █ ▄█
+█ █   █ █▀▄█▄▄ ██▄▄ ██ ▄█  █▀▄ ▄▄▄▄▄▄█ ▄▄▄▀▀██ ▄ ▀▀█▀▄▄ ▄▄▄█▄▀█
+█ █▄▄▄█ █ ▀▄██▀▀▄▄█▀ ▄█ ▀▀▄▄█▀ ▀  ▀  █ █▀█   ██   ▄█▄▀ ▄ ▄ ▀▄██
+█▄▄▄▄▄▄▄█▄▄▄█▄▄███▄▄██████▄█████▄█▄▄█▄▄█▄█▄█▄███▄▄██▄█▄██▄▄█▄▄█
+ {"code":"https://wa.me/settings/linked_devices#2@Vo5YR9iKhGMnOuMAa55ma2nt8R90P7CEPvRUMLDL7elEeNzFQo1NhHphdt3j+KUu53xifVs/2QEf9rn0xT+JkpfaMLRE0Javngs=,51IPlJGbvdaWqkOtrbU7kBH0HLnUQrv3liHrypcmp3Q=,irIQwRaF6TCdDNrJOCUvfdkwamA3OWwwBRyN/EztoHA=,OBmF+BDfFBHkRmbU4wtGPNQN/Sp5d5FkOnqNIsQR510=,1"}
+[call-bridge] Scansiona il QR (nuovo dispositivo collegato dedicato alle chiamate):
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄██▄▄▀██ █▀▄▀▀▀█▄▀ █▀ █▀▀▀█ █▄██▄▄▄▄██▀█▀▄█  █ ▄▄▄▄▄ █
+█ █   █ █ ▀ ██ █ █  ████▀█▀▄ ▄ ▀▄▀█▄▀▀█▀▀▄▀▀ ▄█▀▀ ▄ ▄ █ █   █ █
+█ █▄▄▄█ █▄▄▄█▄▀▄▄█▄█▄ ▄▄▀█▄▀▄ ▄▄▄ ▀▀█ █ ▄▀▀█  ▄▀ ▄  ▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀ █▄▀▄█▄▀ ▀▄█▄█▄▀ █▄█ ▀▄█ █ █▄█▄█▄█▄█ ▀ ▀ █▄▄▄▄▄▄▄█
+█ ▄  ▀█▄▀ █▄▄▄▀███▀▀ ▀▄▄▀▀█▄█ ▄  ▄▄▄▀█▀▄ ▄ ▀▀▀▀▄ ▀████▄▀▀ ▄▄▀▄█
+█▄▄█▄▀▀▄ █▄▄▀▀  █  ▀█▀█▄███▄▄▀▀██▄▄██▄█▀▄█ ▄██▄▄█ ▀▀▀█ ▄▄▀ ▀███
+█▀█▀ ▀█▄▄▄ ▄ ▄▄▀ █ ▄▀▀▀▀██▄████▀██ ▄ ▀▀▄▀███ █▀▄▀ ▀▀ ███ █▄▄███
+█▀ █▄██▄▀ █▀▀▄ █▄ ▀▀ ▀ ▀█ █ ▄█▀▄▀▀██▄  █  ▄▀▄██▄█▄█ ▀  ▀▀███ ██
+█ █▀ ▄ ▄  ▀▀███▄▄▀▀███▄  ▀     █ ▄ ▀▀▀▄▄ ▀▀█    ▀█▄▄▀ ▀█  █▀▄▄█
+█ █▀▄█ ▄▄ █▀ █▀███▀ ▀ ███▀ █▀▄▄█ ▀▀  ▀▄▄   ████ ▀█▀█▀▀▄▄▄  ▄▄ █
+███▄█ █▄▄█▀  ▀ ▀██▄██▄█ ▀▀██ ▄█▀█ █▀█▀▀█▀▄█ ██▄█ ▀▀▄█▄▀▀█▀███▄█
+█▄██▀█▀▄▀   █▄█ ▀▀█ ▀▄█▀▀ █▄▀▀ ▄▄ ███▀▄█  ▀▄▀▀▄▀█▀▄ ▄▀ ▀▀▀▀▀▀▀█
+██▀█▀▀█▄▀   ▄ █▀▀▄ █▄▀█▀ █▀▀▀██ █ ▀█  ▀▀█▀█▄▄█▀▄▄    ▄▄███▀   █
+█  ██▄▀▄ ▄▀█▄▀███▄ ▀██ ▄ ▀ ██  ▀█    ▀▄█ ▄ ▀▀ ▄ ███▄ █▄   █▄ ▀█
+█▀▄▄  ▄▄▄ ▄▀▀▄▄█▀▀▀█▀█▄██▄█ ▀ ▄▄▄    █ ▄ ▀ ▄▄▄  ▀▀█▄▀ ▄▄▄ ███▀█
+█ ▄██ █▄█ ▀▀▀█▄█▀█▄  █ █ ▄ █▀ █▄█ ▀▄▀▄▄▀▄▀▄█▀▄▄▄▀ █▄█ █▄█ ▄█ ▄█
+█▄▀█▀ ▄▄  ▄▄▀▄▄ █  █▀▄█▄▄▀▀▀  ▄   ██▄██▄    ▀█ █▄▀ ██    ▄▄▀█▄█
+███▄█▄ ▄▀ █▀▀▄ █▀▄▀▄▀██ ██▀ ▀▄ █▄██  ▄▀█▄█▀██▀▀ ▀▀ █ ██▀█▄ ▀▀▀█
+█ █▀▄▀▀▄  █▄▀▄ █ █ ▄ ▀▀█▀█ ▀▀▀█▄▄▄██ ▄▀  █ ▄ █▀█▀▄   ▀█▄▀  ▄▄ █
+█ █▄██ ▄▄█▀█▄▄█▄▀█▀▀▄█ █▀▄█ █▄   █ ▄▀  ▄▄▀ ▄▄▀ █▄██▄ ▀ █ ▀█▄█▀█
+█▄▄ ▀▀ ▄ ▄█ ▀█ ▀   ██ ▄▀█▄ █ ▄█▀ ▄█ ███▄██▀▄▄▄▄▀██▄█▀█▀▀▄█  ▀▄█
+█▄█▄ ▄▀▄▀ ▄█▀▀█ ▀ ▀▄▀▄▀ █  ▀  ▄▄▀▀█▄▀▄▀█▀█▀██ ▀ █ █▄▀▄▄▄▀▄▀██▄█
+█ █▄ █ ▄▄█▀▀▄███▄▄ ██▄ ▄▀  ▀ █▀██▀█▄▄▄    ▄ █▀███▀ ██  ██▄▀██▀█
+█▄█▄  ▀▄▄▄▀██▄ ▀█  █ ▄▄▄▀▀█ █  █ ▄▀ █▄▀▄▀█▄▄ ▀ ▄▀▀▀████▀ █▀▀█▀█
+█ █▄ █▀▄█ ▄ ▀█ ▄██  ▀ █▄█ ▀█▄▀█ ▄▀ ▄  ▄ ▀███▄▀▀▄ ▄▀ ▄▄▄▀▄ ▄██ █
+█▀▀ ▄ ▄▄▄▀██  █  ▄▄█▀▄▀ ▀▄▄▀██▄▄ ▄█▀▀█▀ ▄ █ ▀ ██▄██▄█▄▀█▀███▀▀█
+█▄▄▄▄██▄▄  ▀▄███▀▀▄▀ █▀█ █▄ █ ▄▄▄ ▀▄██▀██▀███▄▄▀▀█▀▄▀ ▄▄▄ ▄▀███
+█ ▄▄▄▄▄ █████████  ▀▄█▄   ▀▀  █▄█ ▄▀▀▄ ▄▄█▄█▄█▀ ▄   ▄ █▄█  █ ▄█
+█ █   █ █▀▄█▄▄ ██▄▄ ██ ▄█  █▀▄ ▄▄▄▄▄▄█ ▄▄▄▀▀██ ▄ ▀▀█▀▄▄ ▄▄▄█▄▀█
+█ █▄▄▄█ █ ▀▄██▀▀▄▄█▀ ▄█ ▀▀▄▄█▀ ▀  ▀  █ █▀█   ██   ▄█▄▀ ▄ ▄ ▀▄██
+█▄▄▄▄▄▄▄█▄▄▄█▄▄███▄▄██████▄█████▄█▄▄█▄▄█▄█▄█▄███▄▄██▄█▄██▄▄█▄▄█
+
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 50s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 40s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 30s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 20s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 10s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 5s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 4s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 3s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 2s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 1s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 0s
+[32minfo[39m:     [jarvis-calls:client] Closing the page
+[call-bridge] status: autocloseCalled
+[36mverbose[39m:  [jarvis-calls:page] Page Closed
+[call-bridge] status: browserClose
+[32mhttp[39m:     [jarvis-calls:client] Checking QRCode status...
+[33mwarn[39m:     [jarvis-calls:client] Failed to authenticate
+[call-bridge] status: qrReadError
+[31merror[39m:    [jarvis-calls:client] Auto Close Called
+[32minfo[39m:     
+   _       ______  ____  ______                            __ 
+  | |     / / __ \/ __ \/ ____/___  ____  ____  ___  _____/ /_
+  | | /| / / /_/ / /_/ / /   / __ \/ __ \/ __ \/ _ \/ ___/ __/
+  | |/ |/ / ____/ ____/ /___/ /_/ / / / / / / /  __/ /__/ /_  
+  |__/|__/_/   /_/    \____/\____/_/ /_/_/ /_/\___/\___/\__/
+[32minfo[39m:     Checking for updates
+node:events:496
+      throw er; // Unhandled 'e[33mwarn[39m:     Failed to check for updates
+[32minfo[39m:     [jarvis-calls:browser] Using browser folder 'C:\Users\windows\Desktop\TEEEST\wa-bridge\call-bridge\tokens\jarvis-calls'
+[32minfo[39m:     [jarvis-calls:browser] Initializing browser...
+[32mhttp[39m:     [jarvis-calls:browser] checking headless...
+[32mhttp[39m:     [jarvis-calls:browser] headless option is disabled, browser visible
+[32minfo[39m:     [jarvis-calls:client] Initializing...
+[36mverbose[39m:  [jarvis-calls:client] Setting WhatsApp WEB version to 2.3000.10305x
+[31merror[39m:    [jarvis-calls:client] Version not available for 2.3000.10305x, using latest as fallback
+[36mverbose[39m:  [jarvis-calls:client] Loading WhatsApp WEB
+[36mverbose[39m:  [jarvis-calls:page] Page loaded
+[36mverbose[39m:  [jarvis-calls:client] Injecting wapi.js
+[36mverbose[39m:  [jarvis-calls:client] WhatsApp WEB loaded
+[32mhttp[39m:     [jarvis-calls:client] Waiting page load
+[32minfo[39m:     [jarvis-calls:session] Session Unpaired
+[call-bridge] status: disconnectedMobile
+[36mverbose[39m:  [jarvis-calls:client] wapi.js injected
+[32mhttp[39m:     [jarvis-calls:client] Connected
+[call-bridge] status: inChat
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessage function
+[32mhttp[39m:     [jarvis-calls:client] Checking is logged...
+[32minfo[39m:     [jarvis-calls:client] Waiting for QRCode Scan (Attempt 1)...:
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ▀▄▄█  ▄  █▄  █▀ ▀▄ █▀▄█▀▄█ ▀▀▄▄▄▄  █▄▀▀█▄█  █ ▄▄▄▄▄ █
+█ █   █ █  █▄█████▄▄█▀▄▀ █▀█▀▄▀▀▀ ▄ ▀▄▄█  ▄█▀▄▄▀▀▄█ ▄ █ █   █ █
+█ █▄▄▄█ █▀▄  ▀█▀ ▀█  ▄▄▀▄▄▄▄▄ ▄▄▄ ▀█▀▄█▄▄█▀▄▀  ██▀█ ▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀ ▀ ▀▄█▄█▄█ ▀▄█▄█ ▀ █▄█ ▀ █ ▀▄█ █▄█ ▀ █ ▀▄▀▄█▄▄▄▄▄▄▄█
+█▄▄██ ▄▄█▀▀█  ▀▄▀▄▀ ▄▄▄▀▀ ▀▀ ▄  ▄ ▀▄▄ ▄▀ ▀  █▄▄█▀ ▀ ▀▄█▀▄█ ▄ ▄█
+█ ▄ █▄█▄ ▄▄ █ ▀▄███ ▀ █▄█▄█▀▀ ▄█▀██▀ █▀ █▄▄ █ ▀▀█▀▀ ▀▄ ▄ ▄█ ▀██
+█ ▀▄  ▄▄█ ▄▄█▀▀▄ ▄▀▄▄  ▀▀▀▀ ▄█▀█▄▄ ▄▄█▄███▀ █▄ █  ▄▀▀█  ▀▄█▀▀▀█
+█▀ █ ▀ ▄█▄█▄ ▄▀██ ██▀▀▀█▄█▄▀▄▀▄ █▀ ▄█ ▀█▀▄ ▄█▀█▀   ▄ █▀ █▄█ ▀██
+█   ▄█▄▄▄▄█  █▄ ▄█  █ ▄▄▀▄▀▄ ▄█▄▀█ ▄ ▄█  █ ▀▀  ▄  ▄ ▀▄  ▀▄▄ ▄██
+█ █▄ ██▄████▀▀▀▀▀ █▄▀▀  ▄ ▄█▀▀▄█ ▀█▄▀▀ ▄▄█▄▄███▀  ███▄▀█▀█▄ █▀█
+██▄▀█▄▀▄▄▀▀▀██ ▀▀█ ▄▄ ▀▀ ▀▀▄▄██  █▀  ▄▄▀██ ▀▀▄▀▄ ▄▄▀▀█ ▀▀▄ ▄▀▄█
+█▄▄ ▄▄▄▄ █▀▀ ██▀██▀ ▄▄▀▀██▀█▄ ██▄█  █▀█▀██▄▄▄   ▄▀▀ ▀ ▄ █▀▄ █▀█
+█▄ █▄█ ▄ ▄▄██ █ ▀█▄▀▀ ▄▀▄▀▄ █  ▀▀ ▀██▄█▀ █▀ ▀▄ ▄  █▀ █ ▀ ▄  ▄██
+█▄█▀  █▄ █▀▀█ ▀▀█▀▄▄▄█▀▄▀▄ █▄▄██▄  ███▄▄█▀▀▀▄ ▀ █▄ ▄█▀▀ ▀▄█ ███
+█▄ ▀█ ▄▄▄ ▀▀█ █  ▄   ▀▄▀  █▄▀ ▄▄▄ ▀▄▀ ▀  ▀▄ █▄▀▄▄▄▄ █ ▄▄▄ ▄█▄ █
+█▀█▄█ █▄█ ▄▄▄█▄▄ ▄█▀ ▀▄ ▄▄▀██ █▄█  █▄█▄█ ▄▀▄ ▀▀ ▀▀█ ▀ █▄█ ▄ ▀██
+█  █▀▄ ▄   █ ▀▀ ▀▀ ▄▄ ▀█▄ █ ▀  ▄▄▄▄█▄ ▀▀▄▀▀▀▄ ▄▄▄ ▀▀▀▄▄▄▄ ▄▀▀ █
+█ ▄▀█▄▀▄ ▄▄█ ▄█▀▄█ ▄ ▄▄▄▀██ ▄█▄█▀█ ▀▀██▄▀▄▄▄█ ▄█▀█▄▄▄▄█▀▀██ ███
+█ █▄█▄ ▄▀█▀ ███▄█▄▀▄▄▀ █▀ ▄▄█▀▀ ▀▄▄█▄▄█ ▀█▄▀█ ▀▄▄▄▄▀▀▀ ▄▀▀ ▄▄▀█
+█▄█ ██ ▄ ▀▀▄█▄▀▀▄▀▄██▀▄▀█▄▄  ▄█ █▄▀▄█▀▄ ▀▀█ ▄▀ █▀ ▄▄▀▄▀██▄▄ ▀▀█
+█▀ ██▄▀▄▀▄▀ ▄▀▀█▀█▀ ▄▄▄▀▀▀▀▀▄    ▀▀▄█ ▄  █ ▀█ ▄█▄ █▀▀▀█▄▄▀▄▄▀ █
+█▀ ▄▀▄▄▄   █▀█▄█▄▀  ▀ ██▄▀▄█ ▀ ▄ ███ █ ▀▀█  ▀▄▀▀█ █▄▀▄██ ██▀▄██
+█ ▀▄▀▄█▄█▄▀▄█▄█▀▀█  ▀▀▀▀ ▀▄▄▄▄▄▄ ▀▀▄▄█▄█ █▀ █▄▀█▄ ▄▀▀▄ ▄▀▀▄█▀▄█
+█▄█▀ ▀█▄▀▄▀▄ █▄  ▄ █ █▀█▄█▀█ ▀▀█▄█▀█▀ ██▄▄█▄ ▀███▀▄▀▀█▀▀▄▄▄▀▀▀█
+█▀ ▀▀▀▄▄▄▄▀█▄ ▄▄▄█▄ █ ▄▄▀▄▄▄█▀  ▀ ▄▄  ▀▀ █  ▀  ▄▄ ▄ ▀▀▀▀▄ ▀▄▄ █
+█▀▀ ▄ ▄▄█▀█ █▀▄ ▀ ▄▄█▀█ ▄ ▀▄▄ ▀ ▄▄███▀▄▄█▄ █  ▄▀▀▀▀▄▄ ██  ▄ █▀█
+█▄▄▄▄██▄▄  █▀█ ▄▀▄▄ ▄  █▄▀▄▄█ ▄▄▄ ▀ ▀▄▄▀███▀▀▄ █  █▀▀ ▄▄▄ █▄▀▄█
+█ ▄▄▄▄▄ █▀ ▄███▀██▀ ▀██▀ █▀██ █▄█   ▀▄█  ▀█▄█ ▄█▀█ █  █▄█ ▄ ▀██
+█ █   █ █▄███▀   ▄▄▀▀ ▄▀█▀▄ █▄ ▄▄  ▄▄▄▄▀ █▀ ▀ ▄█▄▄█ █     ▄ █▀█
+█ █▄▄▄█ █▀█▄   ▀▀▄▄▄▄█▄▄█▀ ██▀ █▄▀  ▄███▄▄▄▄▄▄ █ █▄ ▀  █ ▀▄▀ ██
+█▄▄▄▄▄▄▄█▄█▄██▄█▄▄▄▄▄▄▄█▄▄█▄▄█▄██▄▄██▄█▄█████▄▄█▄▄▄▄█▄███▄▄█▄▄█
+ {"code":"https://wa.me/settings/linked_devices#2@60rpjsBTnxOSYZFbEt5TvTfP3UTHcJ/9ZYxHup8rOuMSZUbQzyVRJNtbXDvYyVNejunAli8v1cT4vAro6Gl7Jnqb+caxllA5VaQ=,c7JlimhWLQ5WpIvGOecMSipRgB2IWD+GYdK8bLmu13Y=,y0jCbeAMMwVkxZEdWwKY+59N4etRGghDj907EvGvo3E=,NMx9Of/OyfpLXytoDZSbXnAI2bwUnCb1rPyGWca7g28=,1"}
+[call-bridge] Scansiona il QR (nuovo dispositivo collegato dedicato alle chiamate):
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ▀▄▄█  ▄  █▄  █▀ ▀▄ █▀▄█▀▄█ ▀▀▄▄▄▄  █▄▀▀█▄█  █ ▄▄▄▄▄ █
+█ █   █ █  █▄█████▄▄█▀▄▀ █▀█▀▄▀▀▀ ▄ ▀▄▄█  ▄█▀▄▄▀▀▄█ ▄ █ █   █ █
+█ █▄▄▄█ █▀▄  ▀█▀ ▀█  ▄▄▀▄▄▄▄▄ ▄▄▄ ▀█▀▄█▄▄█▀▄▀  ██▀█ ▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀ ▀ ▀▄█▄█▄█ ▀▄█▄█ ▀ █▄█ ▀ █ ▀▄█ █▄█ ▀ █ ▀▄▀▄█▄▄▄▄▄▄▄█
+█▄▄██ ▄▄█▀▀█  ▀▄▀▄▀ ▄▄▄▀▀ ▀▀ ▄  ▄ ▀▄▄ ▄▀ ▀  █▄▄█▀ ▀ ▀▄█▀▄█ ▄ ▄█
+█ ▄ █▄█▄ ▄▄ █ ▀▄███ ▀ █▄█▄█▀▀ ▄█▀██▀ █▀ █▄▄ █ ▀▀█▀▀ ▀▄ ▄ ▄█ ▀██
+█ ▀▄  ▄▄█ ▄▄█▀▀▄ ▄▀▄▄  ▀▀▀▀ ▄█▀█▄▄ ▄▄█▄███▀ █▄ █  ▄▀▀█  ▀▄█▀▀▀█
+█▀ █ ▀ ▄█▄█▄ ▄▀██ ██▀▀▀█▄█▄▀▄▀▄ █▀ ▄█ ▀█▀▄ ▄█▀█▀   ▄ █▀ █▄█ ▀██
+█   ▄█▄▄▄▄█  █▄ ▄█  █ ▄▄▀▄▀▄ ▄█▄▀█ ▄ ▄█  █ ▀▀  ▄  ▄ ▀▄  ▀▄▄ ▄██
+█ █▄ ██▄████▀▀▀▀▀ █▄▀▀  ▄ ▄█▀▀▄█ ▀█▄▀▀ ▄▄█▄▄███▀  ███▄▀█▀█▄ █▀█
+██▄▀█▄▀▄▄▀▀▀██ ▀▀█ ▄▄ ▀▀ ▀▀▄▄██  █▀  ▄▄▀██ ▀▀▄▀▄ ▄▄▀▀█ ▀▀▄ ▄▀▄█
+█▄▄ ▄▄▄▄ █▀▀ ██▀██▀ ▄▄▀▀██▀█▄ ██▄█  █▀█▀██▄▄▄   ▄▀▀ ▀ ▄ █▀▄ █▀█
+█▄ █▄█ ▄ ▄▄██ █ ▀█▄▀▀ ▄▀▄▀▄ █  ▀▀ ▀██▄█▀ █▀ ▀▄ ▄  █▀ █ ▀ ▄  ▄██
+█▄█▀  █▄ █▀▀█ ▀▀█▀▄▄▄█▀▄▀▄ █▄▄██▄  ███▄▄█▀▀▀▄ ▀ █▄ ▄█▀▀ ▀▄█ ███
+█▄ ▀█ ▄▄▄ ▀▀█ █  ▄   ▀▄▀  █▄▀ ▄▄▄ ▀▄▀ ▀  ▀▄ █▄▀▄▄▄▄ █ ▄▄▄ ▄█▄ █
+█▀█▄█ █▄█ ▄▄▄█▄▄ ▄█▀ ▀▄ ▄▄▀██ █▄█  █▄█▄█ ▄▀▄ ▀▀ ▀▀█ ▀ █▄█ ▄ ▀██
+█  █▀▄ ▄   █ ▀▀ ▀▀ ▄▄ ▀█▄ █ ▀  ▄▄▄▄█▄ ▀▀▄▀▀▀▄ ▄▄▄ ▀▀▀▄▄▄▄ ▄▀▀ █
+█ ▄▀█▄▀▄ ▄▄█ ▄█▀▄█ ▄ ▄▄▄▀██ ▄█▄█▀█ ▀▀██▄▀▄▄▄█ ▄█▀█▄▄▄▄█▀▀██ ███
+█ █▄█▄ ▄▀█▀ ███▄█▄▀▄▄▀ █▀ ▄▄█▀▀ ▀▄▄█▄▄█ ▀█▄▀█ ▀▄▄▄▄▀▀▀ ▄▀▀ ▄▄▀█
+█▄█ ██ ▄ ▀▀▄█▄▀▀▄▀▄██▀▄▀█▄▄  ▄█ █▄▀▄█▀▄ ▀▀█ ▄▀ █▀ ▄▄▀▄▀██▄▄ ▀▀█
+█▀ ██▄▀▄▀▄▀ ▄▀▀█▀█▀ ▄▄▄▀▀▀▀▀▄    ▀▀▄█ ▄  █ ▀█ ▄█▄ █▀▀▀█▄▄▀▄▄▀ █
+█▀ ▄▀▄▄▄   █▀█▄█▄▀  ▀ ██▄▀▄█ ▀ ▄ ███ █ ▀▀█  ▀▄▀▀█ █▄▀▄██ ██▀▄██
+█ ▀▄▀▄█▄█▄▀▄█▄█▀▀█  ▀▀▀▀ ▀▄▄▄▄▄▄ ▀▀▄▄█▄█ █▀ █▄▀█▄ ▄▀▀▄ ▄▀▀▄█▀▄█
+█▄█▀ ▀█▄▀▄▀▄ █▄  ▄ █ █▀█▄█▀█ ▀▀█▄█▀█▀ ██▄▄█▄ ▀███▀▄▀▀█▀▀▄▄▄▀▀▀█
+█▀ ▀▀▀▄▄▄▄▀█▄ ▄▄▄█▄ █ ▄▄▀▄▄▄█▀  ▀ ▄▄  ▀▀ █  ▀  ▄▄ ▄ ▀▀▀▀▄ ▀▄▄ █
+█▀▀ ▄ ▄▄█▀█ █▀▄ ▀ ▄▄█▀█ ▄ ▀▄▄ ▀ ▄▄███▀▄▄█▄ █  ▄▀▀▀▀▄▄ ██  ▄ █▀█
+█▄▄▄▄██▄▄  █▀█ ▄▀▄▄ ▄  █▄▀▄▄█ ▄▄▄ ▀ ▀▄▄▀███▀▀▄ █  █▀▀ ▄▄▄ █▄▀▄█
+█ ▄▄▄▄▄ █▀ ▄███▀██▀ ▀██▀ █▀██ █▄█   ▀▄█  ▀█▄█ ▄█▀█ █  █▄█ ▄ ▀██
+█ █   █ █▄███▀   ▄▄▀▀ ▄▀█▀▄ █▄ ▄▄  ▄▄▄▄▀ █▀ ▀ ▄█▄▄█ █     ▄ █▀█
+█ █▄▄▄█ █▀█▄   ▀▀▄▄▄▄█▄▄█▀ ██▀ █▄▀  ▄███▄▄▄▄▄▄ █ █▄ ▀  █ ▀▄▀ ██
+█▄▄▄▄▄▄▄█▄█▄██▄█▄▄▄▄▄▄▄█▄▄█▄▄█▄██▄▄██▄█▄█████▄▄█▄▄▄▄█▄███▄▄█▄▄█
+
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAnyMessage function
+[32minfo[39m:     [jarvis-calls:client] WhatsApp WEB version: 2.3000.1047387824
+[32minfo[39m:     [jarvis-calls:client] WA-JS version: 4.6.0
+[32minfo[39m:     [jarvis-calls:client] Auto close configured to 60s
+[32mhttp[39m:     [jarvis-calls:client] Waiting for QRCode Scan...
+[call-bridge] status: notLogged
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAck function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onMessageEdit function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNotificationMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onParticipantsChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStateChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamModeChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onStreamInfoChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onIncomingCall function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onInterfaceChange function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPresenceChanged function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onLiveLocation function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onBackendEvent function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onAddedToGroup function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onRevokedMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onReactionMessage function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onPollResponse function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onUpdateLabel function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onOrderStatusUpdate function
+[34mdebug[39m:    [jarvis-calls:client] Exposing onNewChat function
+[34mdebug[39m:    [jarvis-calls:client] Emitting onInterfaceChange event (1 registered)
+[32mhttp[39m:     [jarvis-calls:client] Current state: QR (undefined)
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 50s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 40s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 30s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 20s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 10s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 5s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 4s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 3s
+[32minfo[39m:     [jarvis-calls:client] Waiting for QRCode Scan (Attempt 2)...:
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄ ▄█▀▀██ ▄▀▀▀███▄▄▄ █ ▄▀ ██▄█▄██▄ ▄█▄█▀█▀▀█  █ ▄▄▄▄▄ █
+█ █   █ █ ▀▀█▄▀█▄▀▀  ▀▀▄█▀ █▀█ ██▄█▄  █▄▀▄▀▀ ▄▄▀▄ ▄ ▄ █ █   █ █
+█ █▄▄▄█ █▄▄▄▀▄▄█ █▄█ ▄▄▄█▀█ ▄ ▄▄▄ ▀▀█▀▄▄▄▀ ▀ █▀█▄▄▄ ▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█▄▀▄▀ ▀ █▄█▄█ █▄█▄▀ █▄█ █ ▀▄▀ ▀▄█▄█▄█▄█ ▀ █ █▄▄▄▄▄▄▄█
+█ ▄  ▀█▄▀▄█▄ ▀█▀██▀▀ ▀  ▀▀█▄▀▄   ▄█▄ ▀ ▄▄  ▀▀▀ ▄▀▀████▄▀▀  ▄▀▄█
+█   ▀█▀▄▄▀▀█▀ ██ ▄▄▀█▀ █▀▄█▄▄▀ ██▄▄█▄▄█▀▄▀  ▀▀▄ █▀▀█▄█▄ ▄█▄ ███
+█▄▄█▀  ▄ ▄▀█▀█▄█ █  ▀▀▀▀ █ ████▀▀█▀█ ▀▀▄█▀██ █▀█▄▄▀ ▀▄██▄██ ███
+██▀  ▀█▄▄▄█ █  ███ ▀ ▀ ▀█  ▀██▀▄▄▀▀  ▄ █  ▄ ▄▀▄█▄█ █ ▀▄▄▄▄▄▄▄▀█
+██▀▄▄ ▄▄█  █▀▄█▄▄▀▀█▄▄▄  ▀     ▀ ▀  ▀▀▄▄ ▀▀▄ ▄  ▀██▄▀ ▀█  ▄▄█ █
+█▄  ▄ ▀▄▄▀▀ █▀  ██▄█▀█ ▄█▀▄▀▀██▄▄█▀▀▄ ▄▄  ██▀▀█▄▀▀█▀▀▀ ▄▀▀ █▄ █
+██▀▄▀█▀▄ ▄█ ▄█▄▀█▄ █▀▄▄▄  █▀█▀▄▀ ▀█▀ ▀██▀▄  ███▄ █ ▄█▄  █▀▄█▀▀█
+█ █▀▀▄▀▄▄▄▄  ▀ ▄ ▄█   ▄ ▀██▄ ▀ ▄█▄█▀▀▀ ▀ ▄ ▄▀▀█▀ ▀█▀▄▀  ▀ ▀▀███
+███▀ █▄▄████▀▄ ▄ █ █▄▀█▀ █▀▀▀ ▄██ ▀██   ▀██▄▄█▀▄▄▄  ▀█▄████▄  █
+█ ▄██▄ ▄▀▀▄█ ▄ ▀▄██▄██  ▄ ▀▀█  ▀█ ▄  ▀█▄▄▀▄▀█  ▄ ▄█▄▄█   ▄▄█ ▀█
+█▀▀▀█ ▄▄▄ ▄ ▄█▄▄▀ ▀▀▀█▄█ ▄▄ ▀ ▄▄▄  ▀ █ ▄▀█▀█▄ ▀  ▀▄█▀ ▄▄▄ █▀███
+█ █▄▄ █▄█ █▄█▄▄ ▄█▄  █ █▀  ▄▀ █▄█ █ █▄▄▀▄ ▀█ ███  █▄▄ █▄█  █ ▄█
+█▀▄ █▄ ▄▄▄█▀▄▀███  █ ██▄▄▀███  ▄   ▄▄▀█▄  ▀  █ █▄▀█▄█  ▄ ▄  ▀▀█
+██   ██▄ ▄▀▄▀ █▄▀▄▄▄▄██▄██▀▀▀▄ ██▄█ ▀███▄█ ▄▀▀█▄██ █ █▀▀█▄ ▀▀██
+█▀██▄█▀▄▀█  ▀█▀▄▄▄█  ▀███▄▀█▄▀█▄▄███▄▄ ▀ █ █ ▀▀▄  ▀  ▀▄ ▄ ▀▄▄▀█
+██▄ ▄▀▀▄█   ███ ██▀▀▀▄██  █ ▀█▄█ █▄▄▀▄▄  █ ▄█  ▀▄▄█▄  ▄▀▄▄█▄▀██
+█   █ █▄  ▀▄█▄▄▀▀▀ ██ ▄█ ▄ █▀▀██▀▄█▀▄██▄ ▀▀▄▄▄▄▀██▄█▀█▄▀▄▄  ▀▄█
+█  ▀▀█ ▄ ▄█▄ ▄▄▀ ▄▀▄▀▄▀ █ ▀ ▄▄▄▄▀▀█▄▀▄ ██ ▀▀▀ █▄▄▀▀▄█▀▄▄ ▀▀██▄█
+█▀█▀▀██▄▀▀▀▀██▀▄▄█ ██▄█ ▀▀▀█ █ ▀▀█▄▄▄▄  ▄▄▀ ▀▀█▄█▀ ▄██ ██▄▀▄▀██
+█▄▀▄▀ ▀▄██▀█▄█ ▀ ▀▄█▄▄▄▄ ▀▄▄█ ██ ▄█▄█ ▀▄▀█ █▄  ▄  ▀▀ ██▀ █▀ █▀█
+███  ▀ ▄█▀█▀▀ ▀███ ▄ ▀█▄█ ▀█▄▀▄▄▄▀█▄▄▄▄ ▀█▄▄▄▀▀▄ ▄▀▀ █▄▄▀▀ ▄ ▄█
+█▀▀ ▄ ▄▄ █▄▄▄▄▄█ ▄▀ ▄▀▄▀▀▄ ▄█▄▄▄█▄▄▀ ▀█ ▄ █▀█▄▀█▄█ ▄█▄ ▀▀ █▄ ██
+█▄▄▄▄██▄▄  ▀█▀ █▀ ███▄ ██▄█ █ ▄▄▄ ▀▄█████▀▄▄▄▄▀▀▀█▄█▀ ▄▄▄ █ ▄▀█
+█ ▄▄▄▄▄ ██▄▀  ▄▀▀  ▀▄▀▀▄▀▄▀▀  █▄█ ▄█▀██▄▄▄▄███   ▄ ▀▄ █▄█  █▀ █
+█ █   █ █▀▀▄█  ▀▄█▄ ██  █  █▀  ▄ ▄██▄█ ▄▄▄▀▀██ ▄▄█▀█▀   ▄▄ ██▀█
+█ █▄▄▄█ █ ██▄ ▄ ▄█ ▄ ▄▀█▀▀▀▀█▄ █▄▄▀█ █▀▄▀█▄  ██▄ ▀ █▄▀▄█▄   ▄██
+█▄▄▄▄▄▄▄█▄█████▄█▄█▄█████▄▄███▄▄▄██▄█▄▄███▄▄▄████▄▄█▄▄██▄█▄█▄▄█
+ {"code":"https://wa.me/settings/linked_devices#2@79HQT2EI3lVEi/QAwyZLHb09ZOqGYxrjpy5pfMr/4S3ECERZwuRn+rCna875o0KpaMhSnqjIqk6LY5jhYUyyMqoPBdruZANY3oE=,c7JlimhWLQ5WpIvGOecMSipRgB2IWD+GYdK8bLmu13Y=,y0jCbeAMMwVkxZEdWwKY+59N4etRGghDj907EvGvo3E=,NMx9Of/OyfpLXytoDZSbXnAI2bwUnCb1rPyGWca7g28=,1"}
+[call-bridge] Scansiona il QR (nuovo dispositivo collegato dedicato alle chiamate):
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄ ▄█▀▀██ ▄▀▀▀███▄▄▄ █ ▄▀ ██▄█▄██▄ ▄█▄█▀█▀▀█  █ ▄▄▄▄▄ █
+█ █   █ █ ▀▀█▄▀█▄▀▀  ▀▀▄█▀ █▀█ ██▄█▄  █▄▀▄▀▀ ▄▄▀▄ ▄ ▄ █ █   █ █
+█ █▄▄▄█ █▄▄▄▀▄▄█ █▄█ ▄▄▄█▀█ ▄ ▄▄▄ ▀▀█▀▄▄▄▀ ▀ █▀█▄▄▄ ▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█▄▀▄▀ ▀ █▄█▄█ █▄█▄▀ █▄█ █ ▀▄▀ ▀▄█▄█▄█▄█ ▀ █ █▄▄▄▄▄▄▄█
+█ ▄  ▀█▄▀▄█▄ ▀█▀██▀▀ ▀  ▀▀█▄▀▄   ▄█▄ ▀ ▄▄  ▀▀▀ ▄▀▀████▄▀▀  ▄▀▄█
+█   ▀█▀▄▄▀▀█▀ ██ ▄▄▀█▀ █▀▄█▄▄▀ ██▄▄█▄▄█▀▄▀  ▀▀▄ █▀▀█▄█▄ ▄█▄ ███
+█▄▄█▀  ▄ ▄▀█▀█▄█ █  ▀▀▀▀ █ ████▀▀█▀█ ▀▀▄█▀██ █▀█▄▄▀ ▀▄██▄██ ███
+██▀  ▀█▄▄▄█ █  ███ ▀ ▀ ▀█  ▀██▀▄▄▀▀  ▄ █  ▄ ▄▀▄█▄█ █ ▀▄▄▄▄▄▄▄▀█
+██▀▄▄ ▄▄█  █▀▄█▄▄▀▀█▄▄▄  ▀     ▀ ▀  ▀▀▄▄ ▀▀▄ ▄  ▀██▄▀ ▀█  ▄▄█ █
+█▄  ▄ ▀▄▄▀▀ █▀  ██▄█▀█ ▄█▀▄▀▀██▄▄█▀▀▄ ▄▄  ██▀▀█▄▀▀█▀▀▀ ▄▀▀ █▄ █
+██▀▄▀█▀▄ ▄█ ▄█▄▀█▄ █▀▄▄▄  █▀█▀▄▀ ▀█▀ ▀██▀▄  ███▄ █ ▄█▄  █▀▄█▀▀█
+█ █▀▀▄▀▄▄▄▄  ▀ ▄ ▄█   ▄ ▀██▄ ▀ ▄█▄█▀▀▀ ▀ ▄ ▄▀▀█▀ ▀█▀▄▀  ▀ ▀▀███
+███▀ █▄▄████▀▄ ▄ █ █▄▀█▀ █▀▀▀ ▄██ ▀██   ▀██▄▄█▀▄▄▄  ▀█▄████▄  █
+█ ▄██▄ ▄▀▀▄█ ▄ ▀▄██▄██  ▄ ▀▀█  ▀█ ▄  ▀█▄▄▀▄▀█  ▄ ▄█▄▄█   ▄▄█ ▀█
+█▀▀▀█ ▄▄▄ ▄ ▄█▄▄▀ ▀▀▀█▄█ ▄▄ ▀ ▄▄▄  ▀ █ ▄▀█▀█▄ ▀  ▀▄█▀ ▄▄▄ █▀███
+█ █▄▄ █▄█ █▄█▄▄ ▄█▄  █ █▀  ▄▀ █▄█ █ █▄▄▀▄ ▀█ ███  █▄▄ █▄█  █ ▄█
+█▀▄ █▄ ▄▄▄█▀▄▀███  █ ██▄▄▀███  ▄   ▄▄▀█▄  ▀  █ █▄▀█▄█  ▄ ▄  ▀▀█
+██   ██▄ ▄▀▄▀ █▄▀▄▄▄▄██▄██▀▀▀▄ ██▄█ ▀███▄█ ▄▀▀█▄██ █ █▀▀█▄ ▀▀██
+█▀██▄█▀▄▀█  ▀█▀▄▄▄█  ▀███▄▀█▄▀█▄▄███▄▄ ▀ █ █ ▀▀▄  ▀  ▀▄ ▄ ▀▄▄▀█
+██▄ ▄▀▀▄█   ███ ██▀▀▀▄██  █ ▀█▄█ █▄▄▀▄▄  █ ▄█  ▀▄▄█▄  ▄▀▄▄█▄▀██
+█   █ █▄  ▀▄█▄▄▀▀▀ ██ ▄█ ▄ █▀▀██▀▄█▀▄██▄ ▀▀▄▄▄▄▀██▄█▀█▄▀▄▄  ▀▄█
+█  ▀▀█ ▄ ▄█▄ ▄▄▀ ▄▀▄▀▄▀ █ ▀ ▄▄▄▄▀▀█▄▀▄ ██ ▀▀▀ █▄▄▀▀▄█▀▄▄ ▀▀██▄█
+█▀█▀▀██▄▀▀▀▀██▀▄▄█ ██▄█ ▀▀▀█ █ ▀▀█▄▄▄▄  ▄▄▀ ▀▀█▄█▀ ▄██ ██▄▀▄▀██
+█▄▀▄▀ ▀▄██▀█▄█ ▀ ▀▄█▄▄▄▄ ▀▄▄█ ██ ▄█▄█ ▀▄▀█ █▄  ▄  ▀▀ ██▀ █▀ █▀█
+███  ▀ ▄█▀█▀▀ ▀███ ▄ ▀█▄█ ▀█▄▀▄▄▄▀█▄▄▄▄ ▀█▄▄▄▀▀▄ ▄▀▀ █▄▄▀▀ ▄ ▄█
+█▀▀ ▄ ▄▄ █▄▄▄▄▄█ ▄▀ ▄▀▄▀▀▄ ▄█▄▄▄█▄▄▀ ▀█ ▄ █▀█▄▀█▄█ ▄█▄ ▀▀ █▄ ██
+█▄▄▄▄██▄▄  ▀█▀ █▀ ███▄ ██▄█ █ ▄▄▄ ▀▄█████▀▄▄▄▄▀▀▀█▄█▀ ▄▄▄ █ ▄▀█
+█ ▄▄▄▄▄ ██▄▀  ▄▀▀  ▀▄▀▀▄▀▄▀▀  █▄█ ▄█▀██▄▄▄▄███   ▄ ▀▄ █▄█  █▀ █
+█ █   █ █▀▀▄█  ▀▄█▄ ██  █  █▀  ▄ ▄██▄█ ▄▄▄▀▀██ ▄▄█▀█▀   ▄▄ ██▀█
+█ █▄▄▄█ █ ██▄ ▄ ▄█ ▄ ▄▀█▀▀▀▀█▄ █▄▄▀█ █▀▄▀█▄  ██▄ ▀ █▄▀▄█▄   ▄██
+█▄▄▄▄▄▄▄█▄█████▄█▄█▄█████▄▄███▄▄▄██▄█▄▄███▄▄▄████▄▄█▄▄██▄█▄█▄▄█
+
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 2s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 1s
+[32mhttp[39m:     [jarvis-calls:client] Auto close remain: 0s
+[32minfo[39m:     [jarvis-calls:client] Closing the page
+[call-bridge] status: autocloseCalled
+[36mverbose[39m:  [jarvis-calls:page] Page Closed
+[call-bridge] status: browserClose
+[32mhttp[39m:     [jarvis-calls:client] Checking QRCode status...
+[33mwarn[39m:     [jarvis-calls:client] Failed to authenticate
+[call-bridge] status: qrReadError
+[31merror[39m:    [jarvis-calls:client] Auto Close Called
+[call-bridge] Errore avvio: Error: Auto Close Called
+    at Whatsapp.waitForLogin (C:\Users\windows\Desktop\TEEEST\wa-bridge\call-bridge\node_modules\@wppconnect-team\wppconnect\dist\api\layers\host.layer.js:364:19)
+    at async Object.create (C:\Users\windows\Desktop\TEEEST\wa-bridge\call-bridge\node_modules\@wppconnect-team\wppconnect\dist\controllers\initializer.js:220:30)
+    at async start (C:\Users\windows\Desktop\TEEEST\wa-bridge\call-bridge\call_bridge.js:122:12)
