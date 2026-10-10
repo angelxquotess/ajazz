@@ -1,0 +1,38 @@
+--- /home/claude/out/calls.py.orig	2026-09-07 21:03:44.908487007 +0000
++++ /home/claude/jarvis_inspect/JARVIS/actions/calls.py	2026-09-07 21:03:54.457773834 +0000
+@@ -23,6 +23,13 @@
+ import shutil
+ from typing import Optional
+ 
++try:
++    from actions.call_bridge_client import call_start as _bridge_call_start, is_bridge_reachable as _bridge_up
++except Exception:
++    _bridge_call_start = None
++    def _bridge_up() -> bool:  # type: ignore
++        return False
++
+ 
+ # ---- Finestra app -----------------------------------------------------
+ 
+@@ -171,7 +178,20 @@
+         # default a WhatsApp se sembra un numero
+         plat = "whatsapp" if target.lstrip("+").replace(" ", "").isdigit() else "whatsapp"
+     if plat == "whatsapp":
+-        ok, msg = _call_whatsapp(target)
++        ok, msg = False, ""
++        if _bridge_call_start is not None and _bridge_up():
++            is_video = bool(params.get("is_video") or params.get("video"))
++            bridge_result = _bridge_call_start(target, is_video=is_video)
++            if bridge_result.get("ok"):
++                ok, msg = True, f"Chiamata WhatsApp avviata verso {target}, signore."
++            elif bridge_result.get("candidates"):
++                names = ", ".join(c.get("name", "") for c in bridge_result["candidates"])
++                ok, msg = False, f"Piu' contatti corrispondono a '{target}': {names}. Quale, signore?"
++            # se il bridge e' su ma la chiamata fallisce senza candidati (es.
++            # API non trovata su questa versione di wa-js), scendiamo comunque
++            # al fallback pyautogui sotto invece di arrenderci.
++        if not ok and not msg:
++            ok, msg = _call_whatsapp(target)
+     elif plat == "telegram":
+         ok, msg = _call_telegram(target)
+     elif plat == "discord":
